@@ -7,7 +7,7 @@ else:
     if thirsty == 'Y':
         print(" Have Soda")
     else:
-        print(' Get lsot')
+        print(' Get lsotn')
 
 
     
